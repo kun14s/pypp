@@ -8,7 +8,7 @@
 <h3>Py++ is a Python dialect. It provides math libraries, I/O libraries, and native Python syntax support.</h3>
 <h3>Py++ aims to help students and programmers transitioning from C++ to Python adapt more quickly.</h3>
 
-<h2>解释方法 - Compile</h2>
+<h2>解释方法 - interpret</h2>
 <h3>中文版 - Chinese</h3>
 <h4>执行makefile.bat，如果你有 Pyinstaller（一个在PyPi上开源的库）的话。</h4>
 <h4>否则，执行以下指令编译：</h4>
@@ -17,7 +17,7 @@
 `pypp.exe -h`
 <h3>English - 英文版</h3>
 <h4>Run makefile.bat if you have Pyinstaller (an open-source library available on PyPi) installed.</h4>
-<h4>Otherwise, compile using the following command:</h4>
+<h4>Otherwise, interpret using the following command:</h4>
 `pypp.exe [your_file]`
 <h4>Or run the following command to get help:</h4>
 `pypp.exe -h`
