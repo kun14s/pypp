@@ -22,7 +22,7 @@ SOFTWARE.
 
 ---
 
-【中文翻译 / Chinese Translation】
+【中文 - Chinese】
 
 MIT 许可证
 
